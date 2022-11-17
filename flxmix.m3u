@@ -19,7 +19,7 @@ http://live.flixhub.net/hls/bbcearth.m3u8
 http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-chno="458" tvg-id="(no tvg-id)" tvg-name="BhojPuri" tvg-logo="" group-title="Flixhub",BhojPuri
 http://live.flixhub.net/hls/bhojpuri.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="(no tvg-id)" tvg-name="T-Sports HD" tvg-logo="" group-title="Flixhub",T-Sports HD
+#EXTINF:-1 tvg-chno="103" tvg-id="122" tvg-name="T-Sports HD" tvg-logo="" group-title="Flixhub",T-Sports HD
 http://live.flixhub.net/hls/t-sports.m3u8
 #EXTINF:-1 tvg-chno="455" tvg-id="(no tvg-id)" tvg-name="Bindass Music" tvg-logo="" group-title="Flixhub",Bindass Music
 http://live.flixhub.net/hls/bindass.m3u8
@@ -103,13 +103,13 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="Flixhub",Star Sports 2
 http://live.flixhub.net/hls/starsports2.m3u8
-#EXTINF:-1 tvg-chno="115" tvg-id="(no tvg-id)" tvg-name="Indeprndent" tvg-logo="" group-title="Flixhub",Indeprndent
+#EXTINF:-1 tvg-chno="115" tvg-id="121" tvg-name="Indeprndent" tvg-logo="" group-title="Flixhub",Indeprndent
 http://live.flixhub.net/hls/indepen.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Flixhub",Star Sports Select 2 HD
 http://live.flixhub.net/hls/select2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports3" tvg-logo="" group-title="Flixhub",Star Sports3
 http://live.flixhub.net/hls/starsports3.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="(no tvg-id)" tvg-name="Gazi TV" tvg-logo="" group-title="Flixhub",Gazi TV
+#EXTINF:-1 tvg-chno="103" tvg-id="120" tvg-name="Gazi TV" tvg-logo="" group-title="Flixhub",Gazi TV
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-chno="351" tvg-id="(no tvg-id)" tvg-name="Star world HD" tvg-logo="" group-title="Flixhub",Star world HD
 http://live.flixhub.net/hls/star-worldhd.m3u8
@@ -119,19 +119,19 @@ http://live.flixhub.net/hls/sunbangla.m3u8
 http://live.flixhub.net/hls/nexus.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-id="(no tvg-id)" tvg-name="TCL" tvg-logo="" group-title="Flixhub",TCL
 http://live.flixhub.net/hls/tlc.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="" group-title="Flixhub",ATN News
+#EXTINF:-1 tvg-chno="112" tvg-id="120" tvg-name="ATN News" tvg-logo="" group-title="Flixhub",ATN News
 http://live.flixhub.net/hls/atn-news.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Sports" tvg-logo="" group-title="Flixhub",Ten Sports
 http://live.flixhub.net/hls/ten.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="" group-title="Flixhub",Channel I
+#EXTINF:-1 tvg-chno="113" tvg-id="119" tvg-name="Channel I" tvg-logo="" group-title="Flixhub",Channel I
 http://live.flixhub.net/hls/channeli.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="(no tvg-id)" tvg-name="Travel XP" tvg-logo="" group-title="Flixhub",Travel XP
 http://live.flixhub.net/hls/travelxp.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="" group-title="Flixhub",Masranga tv
+#EXTINF:-1 tvg-chno="114" tvg-id="118" tvg-name="Masranga tv" tvg-logo="" group-title="Flixhub",Masranga tv
 http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV " tvg-logo="" group-title="Flixhub",UTV 
 http://live.flixhub.net/hls/utv.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="(no tvg-id)" tvg-name="Somoy TV" tvg-logo="" group-title="Flixhub",Somoy TV
+#EXTINF:-1 tvg-chno="105" tvg-id="117" tvg-name="Somoy TV" tvg-logo="" group-title="Flixhub",Somoy TV
 http://live.flixhub.net/hls/somoy.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action" tvg-logo="" group-title="Flixhub",UTV Action
 http://live.flixhub.net/hls/utvaction.m3u8
@@ -147,15 +147,15 @@ http://live.flixhub.net/hls/zeecinemahd.m3u8
 http://live.flixhub.net/hls/zeetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom Music" tvg-logo="" group-title="Flixhub",Zoom Music
 http://live.flixhub.net/hls/zoom.m3u8
-#EXTINF:-1 tvg-chno="120" tvg-id="(no tvg-id)" tvg-name="Jamuna" tvg-logo="" group-title="Flixhub",Jamuna
+#EXTINF:-1 tvg-chno="120" tvg-id="116" tvg-name="Jamuna" tvg-logo="" group-title="Flixhub",Jamuna
 http://live.flixhub.net/hls/jamuna.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="" group-title="Flixhub",Gaan Bangla
+#EXTINF:-1 tvg-chno="122" tvg-id="115" tvg-name="Gaan Bangla" tvg-logo="" group-title="Flixhub",Gaan Bangla
 http://live.flixhub.net/hls/gb.m3u8
-#EXTINF:-1 tvg-chno="119" tvg-id="(no tvg-id)" tvg-name="Duranta" tvg-logo="" group-title="Flixhub",Duranta
+#EXTINF:-1 tvg-chno="119" tvg-id="114" tvg-name="Duranta" tvg-logo="" group-title="Flixhub",Duranta
 http://live.flixhub.net/hls/duranta.m3u8
-#EXTINF:-1 tvg-chno="118" tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="" group-title="Flixhub",Nagorik TV
+#EXTINF:-1 tvg-chno="118" tvg-id="113" tvg-name="Nagorik TV" tvg-logo="" group-title="Flixhub",Nagorik TV
 http://live.flixhub.net/hls/nagoriktv.m3u8
-#EXTINF:-1 tvg-chno="117" tvg-id="(no tvg-id)" tvg-name="ATN" tvg-logo="" group-title="Flixhub",ATN
+#EXTINF:-1 tvg-chno="117" tvg-id="112" tvg-name="ATN" tvg-logo="" group-title="Flixhub",ATN
 http://live.flixhub.net/hls/atn.m3u8
-#EXTINF:-1 tvg-chno="118" tvg-id="(no tvg-id)" tvg-name="Bangla Vision" tvg-logo="" group-title="Flixhub",Bangla Vision
+#EXTINF:-1 tvg-chno="118" tvg-id="111" tvg-name="Bangla Vision" tvg-logo="" group-title="Flixhub",Bangla Vision
 http://live.flixhub.net/hls/banglavision.m3u8
